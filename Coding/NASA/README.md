@@ -67,9 +67,6 @@ JPL의 수석 과학자 Gerard J. Holzmann은 이 엄격한 코딩 규칙들을 
 
     또한 모든 코드는 최신 코드분석기를 이용해 하루 한번이상 체크되어야 하고 경고 없이 pass 해야만 한다.  
 
-  
-  
-  
 
 이 규칙에 대해 NASA는 다음과 같이 밝히고 있습니다.
 
@@ -81,6 +78,9 @@ JPL의 수석 과학자 Gerard J. Holzmann은 이 엄격한 코딩 규칙들을 
 
 
 
+   
+　  
+  
 The developers  at NASA have one of the most challenging jobs in the programming world.  They write code and develop mission-critical applications with safety as  their primary concerns.
 
 In such situations, it’s important to follow some serious coding  guidelines. These rules cover different aspects of software development  like how a software should be written, which language features should be  used etc.

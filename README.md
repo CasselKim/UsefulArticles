@@ -2,6 +2,10 @@
 
 Learned by translating useful Articles
 
+[Coding](https://github.com/CasselKim/UsefulArticles#coding)  
+
+[AI Ethics](https://github.com/CasselKim/UsefulArticles#ai_thics)  
+
 　  
 
 ## Coding

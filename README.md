@@ -12,7 +12,7 @@ Learned by translating useful Articles
 
 ![image](Coding/01.jpg)
 
-* [How to code like the top programmers at NASA - 10 Critical rules](NASA)   
+* [How to code like the top programmers at NASA - 10 Critical rules](Coding/NASA/README.md)   
 
 * [10 Tips for Clean Code(Yet)](https://youtu.be/UjhX2sVf0eg)  
 

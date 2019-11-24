@@ -15,7 +15,7 @@
 
 유디 펄 - ACM 튜링상 수상자
 
-인공지능의 가치에 대한 논의가 계속되면서, ['인공지능의 겨울'](https://ko.wikipedia.org/wiki/인공지능#인공지능의_겨울)에 대한 [위험](https://venturebeat.com/2018/04/11/overblown-expectations-for-autonomous-cars-could-force-the-next-ai-winter/)은 리얼이다. 우리는 무엇이 진실인지, 무엇이 상상인지 레벨을 설정하여 다음의 엄청난 혁신에 대한 기사가 적절하게 맥락화되도록 해야한다.   
+인공지능의 가치에 대한 논의가 계속되면서, ['인공지능의 겨울'](https://ko.wikipedia.org/wiki/인공지능#인공지능의_겨울)에 대한 [위험](https://venturebeat.com/2018/04/11/overblown-expectations-for-autonomous-cars-could-force-the-next-ai-winter/)은 이다. 우리는 무엇이 진실인지, 무엇이 상상인지 레벨을 설정하여 다음의 엄청난 혁신에 대한 기사가 적절하게 맥락화되도록 해야한다.   
 
 의심 할 여지없이, 최근 머신러닝과 딥러닝을 이용한 인공지능에 대한 관심의 급증은 많은 소프트웨어 분야에 있어서 엄청난 발전의 배후이다.  SF 영화에서나 볼법한 언어 번역, 이미지 장면 인식, 그리고 대화형 인터페이스(챗봇 등) 같은 발전은 이제 현실이 되었다.  하지만 [소프트웨어는 사실 인공적이든 뭐든간에 '지능적'이지 않다](https://diginomica.com/ai-dumb-leading-incrementalism-not-transformation)라는 좌절감이 커지고 있다. 인공지능 꼬리표를 달고 나온 소프트웨어가 대부분의 소프트웨어 분야에서 엄청난 발전을 낳았음에도 불구하고, 학계와 회의론자들은 [이런 알고리즘이 '지능적'과는 상당히 거리가 있다](https://diginomica.com/2017/01/13/when-algorithms-fail-who-you-gonna-call/)는 것을 발견했다.
 

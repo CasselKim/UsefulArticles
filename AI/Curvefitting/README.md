@@ -7,9 +7,11 @@
 
 ![Profile picture for user kmarko](https://diginomica.com/sites/default/files/styles/user_avatar/public/user/2019-06/Kurt%20Marko.JPG?itok=iJIj49R8)By [마르코 커트](https://diginomica.com/author/kmarko) 2018/06/03
 
-- 요약:
-
+## 요약  
+  
   인공지능에서 '지능'에 대한 중요한 학술적 논의가 대두되고 있다. 그것은 현재에 무엇이 가능한지, 그리고 미래에 어디까지 가능할지에 대한 수준을 정하는데 도움이 된다. 여기에 어디까지가 진실이고, 상상인지에 대한 가이드가 있다.  
+  
+----
 
 ![judea pearl AI](https://diginomica.com/sites/default/files/styles/article_images_desktop/public/images/2018-06/judea-pearl.jpg?itok=FZ_RME4U)
 
@@ -23,9 +25,7 @@
 
 ## 지능의 정의
 
-![image](02.jpg)
-
-지능이 무엇인가에 대한 논의는 (기계 말고) 동물 세계과 인류를 구분하는 것에 관심있던 그리스 철학자들에게로 거슬러 올라간다. 아리스토텔레스는 잘 알려져있듯이 "어떤 생각에 동의하지 않고도(동화되지 않고) 그 생각을 해볼 수 있는 것이 교육 받은 사람의 특징이다." 라고 말했다. 그의 격언이 '생물학적 지능'과 여러가지 인공적인 것들을 구분하는데 사용될 것이라고 생각한 사람은 드물었다.  
+**지능이 무엇인가**에 대한 논의는 (기계 말고) 동물 세계과 인류를 구분하는 것에 관심있던 그리스 철학자들에게로 거슬러 올라간다. 아리스토텔레스는 잘 알려져있듯이 "어떤 생각에 동의하지 않고도(동화되지 않고) 그 생각을 해볼 수 있는 것이 교육 받은 사람의 특징이다." 라고 말했다. 그의 격언이 '생물학적 지능'과 여러가지 인공적인 것들을 구분하는데 사용될 것이라고 생각한 사람은 드물었다.  
 
 우리의 기계는 아직까지 혼자서 생각이나 가설을 내놓을 수 없으며, 다른사람에게 테스트해보지 못하고, 추론과 실험을 기반으로 그것의 타당성을 인정 혹은 반박하지도 못한다. 즉 [과학적 방법의 핵심 원칙](https://ko.wikipedia.org/wiki/과학적_방법#과학적_방법의_요소)을 따르지 못한다는 것이다.  적대적 신경망([GAN](https://www.samsungsds.com/global/ko/support/insights/Generative-adversarial-network-AI-2.html?fbclid=IwAR3IKw6z1KfXpQc4mVIfQRRSYMgDLFatSiMvqWVHjiI9zhyK5w3jjycUlm8))과 같은 일부 인공지능은 최적의 결과에 도달하기 위해 상반되는 목표를 수행할 수 있긴 하지만 이것을 '지능적'이라고 부르는 사람은 거의 없다. 대신, 두 신경망이 더 정확한 모델을 얻기 위해 같은 데이터 셋과 교차되는 목적를 가지고 작동함으로써 정해진 목표를 달성한다! 라는게 조금 더 맞는 표현일 것이다.   
 

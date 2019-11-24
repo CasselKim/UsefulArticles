@@ -17,23 +17,21 @@
 
 인공지능의 가치에 대한 논의가 계속되면서, ['인공지능의 겨울'](https://ko.wikipedia.org/wiki/인공지능#인공지능의_겨울)에 대한 [위험](https://venturebeat.com/2018/04/11/overblown-expectations-for-autonomous-cars-could-force-the-next-ai-winter/)은 현실이다. 우리는 무엇이 진실인지, 무엇이 상상인지 레벨을 설정하여 다음의 엄청난 혁신에 대한 기사가 적절하게 맥락화되도록 해야한다.   
 
-의심 할 여지없이, 최근 머신러닝과 딥러닝을 이용한 인공지능에 대한 관심의 급증은 많은 소프트웨어 분야에 있어서 엄청난 발전의 배후이다.  SF 영화에서나 볼법한 언어 번역, 이미지 장면 인식, 그리고 대화형 인터페이스(챗봇 등) 같은 발전은 이제 현실이 되었다.  하지만 [소프트웨어는 사실 인공적이든 뭐든간에 '지능적'이지 않다](https://diginomica.com/ai-dumb-leading-incrementalism-not-transformation)라는 좌절감이 커지고 있다. 인공지능 꼬리표를 달고 나온 소프트웨어가 대부분의 소프트웨어 분야에서 엄청난 발전을 낳았음에도 불구하고, 학계와 회의론자들은 [이런 알고리즘이 '지능적'과는 상당히 거리가 있다](https://diginomica.com/2017/01/13/when-algorithms-fail-who-you-gonna-call/)는 것을 발견했다.
+의심 할 여지없이, 최근 머신러닝과 딥러닝을 이용한 인공지능에 대한 관심의 급증은 많은 소프트웨어 분야에 있어서 엄청난 발전의 배후이다.  SF 영화에서나 볼법한 언어 번역, 이미지 장면 인식, 그리고 대화형 인터페이스(챗봇 등) 같은 발전은 이제 현실이 되었다.  하지만 [소프트웨어는 사실 인공적이든 뭐든간에 '지능적'이지 않다](https://diginomica.com/ai-dumb-leading-incrementalism-not-transformation)라는 좌절감이 커지고 있다. 인공지능 꼬리표를 달고 나온 소프트웨어가 대부분의 소프트웨어 분야에서 엄청난 발전을 낳았음에도 불구하고, 학계와 회의론자들은 [이런 알고리즘이 '지능적'과는 상당히 거리가 있다](https://diginomica.com/2017/01/13/when-algorithms-fail-who-you-gonna-call/)는 것을 발견했다.  
+
+　  
 
 ## 지능의 정의
 
-지능이 무엇인가에 대한 논의는 (기계 말고) 동물 세계과 인류를 구분하는 것에 관심있던 그리스 철학자들에게로 거슬러 올라간다. 아리스토텔레스는 잘 알려져있듯이 "어떤 생각에 동의하지 않고도 그 생각을 해볼 수 있는 것이 교육 받은 사람의 특징이다." 라고 말했다. 그의 격언이 '생물학적 지능'과 여러가지 인공적인 것들을 구분하는데 사용될 것이라고 생각한 사람은 드물었다.
+![image](02.jpg)
 
+지능이 무엇인가에 대한 논의는 (기계 말고) 동물 세계과 인류를 구분하는 것에 관심있던 그리스 철학자들에게로 거슬러 올라간다. 아리스토텔레스는 잘 알려져있듯이 "어떤 생각에 동의하지 않고도(동화되지 않고) 그 생각을 해볼 수 있는 것이 교육 받은 사람의 특징이다." 라고 말했다. 그의 격언이 '생물학적 지능'과 여러가지 인공적인 것들을 구분하는데 사용될 것이라고 생각한 사람은 드물었다.  
 
+우리의 기계는 아직까지 혼자서 생각이나 가설을 내놓을 수 없으며, 다른사람에게 테스트해보지 못하고, 추론과 실험을 기반으로 그것의 타당성을 인정 혹은 반박하지도 못한다. 즉 [과학적 방법의 핵심 원칙](https://ko.wikipedia.org/wiki/과학적_방법#과학적_방법의_요소)을 따르지 못한다는 것이다.  적대적 신경망([GAN](https://www.samsungsds.com/global/ko/support/insights/Generative-adversarial-network-AI-2.html?fbclid=IwAR3IKw6z1KfXpQc4mVIfQRRSYMgDLFatSiMvqWVHjiI9zhyK5w3jjycUlm8))과 같은 일부 인공지능은 최적의 결과에 도달하기 위해 상반되는 목표를 수행할 수 있긴 하지만 이것을 '지능적'이라고 부르는 사람은 거의 없다. 대신, 두 신경망이 더 정확한 모델을 얻기 위해 같은 데이터 셋과 교차되는 목적를 가지고 작동함으로써 정해진 목표를 달성한다! 라는게 조금 더 맞는 표현일 것이다.   
 
-Debates over the meaning of intellect date back to the Greek philosophers who were primarily concerned with what differentiated mankind from the animal kingdom, not machines. Aristotle famously stated that the mark of an educated mind is the ability to entertain a thought without accepting it. Little did he conceive that his maxim might equally be used to distinguish between biological intelligence and the artificial variety.
+인간과 기계사이의 핵심 지능적 차이는 목표와 그것을 달성하기 위한 이유를 정의하는 능력이다. 때로는 원인과 결과를 구별할 수 있는,  두 사건이 가까운 시간상에 나타난다 할지라도 그것이 서로 영향을 끼친다는 뜻이 아니라고 이해할 수 있는 능력으로도 구분할 수도 있다. 일반인 대화에서 종종 볼 수 있는 [상관관계-인과관계의 오류](https://ko.wikipedia.org/wiki/상관관계와_인과관계)는 가장 흔한 논리적 오류중에 하나다.
 
-Our machines are still incapable of independently coming up with a thought or hypothesis, testing it against others and accepting or rejecting its validity based on reasoning and experimentation, i.e. following the [core principles of the scientific method.](https://courses.lumenlearning.com/boundless-psychology/chapter/the-scientific-method/)
-
-While some forms of AI, like [adversarial networks](https://deeplearning4j.org/generative-adversarial-network), might play opposing goals against each other to reach an optimal result, few would call such algorithmic reasoning ‘intelligent.’
-
-Rather, it’s a more effective means of achieving a defined goal by having two neural networks work at cross-purposes using a common data set, to achieve a more accurate model than either one alone.
-
-The critical intellectual distinction between humans and machines is the ability to define goals and reason towards achieving them. It is also the ability to distinguish between cause and effect, understanding that despite two events often happen in close proximity, doesn’t mean that one *caused* the other. The [correlation-causation fallacy](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation), often seen in public discourse, is one of the most common logical errors.
+　  
 
 ## AI - learning or describing?
 

@@ -20,7 +20,11 @@ Learned by translating useful Articles
 
 　  
 
-## AI Ethics
+## AI
+
+* [AI today and tomorrow is mostly about curve fitting, not intelligence](AI/Curvefitting)  
+
+### AI Ethics
 
 ![image](AIEthics/01.png)
 

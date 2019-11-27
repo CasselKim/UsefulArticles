@@ -22,7 +22,7 @@ Learned by translating useful Articles
 
 ## AI
 
-* [현재의 인공지능은 지능이 아니라 단순한 커브피팅(Curve Fitting)이다](AI/Curvefitting)  
+* [현재의 인공지능은 지능이 아니라 단순한 커브피팅(Curve Fitting)이다](https://www.notion.so/casselkim/Curve-Fitting-a4628217c5274d91a0a4ea39c9e95f66)  
 
 * **AI Ethics**
 

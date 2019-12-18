@@ -12,12 +12,13 @@ Learned by translating useful Articles
 
 ![image](Coding/01.jpg)
 
+* [일일 커밋 회고](https://jojoldu.tistory.com/464)
+
 * [나사의 프로그래머처럼 코드짜는법 - 10가지 중요한 규칙들](Coding/NASA/README.md)   
 
 * [10 Tips for Clean Code(Yet)](https://youtu.be/UjhX2sVf0eg)  
 
 * [Google Coding Interview With A Competitive Programmer(Yet)](https://youtu.be/EuPSibuIKIg)  
-
 　  
 
 ## AI

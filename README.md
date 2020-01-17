@@ -12,8 +12,6 @@ Learned by translating useful Articles
 
 ![image](Coding/01.jpg)
 
-* [주니어 개발자의 스타트업 생존기](https://brunch.co.kr/@goodgdg/43?fbclid=IwAR0CGc9v-lmfoN8tZCI7rMirrfGJY-H51Wl6aIm15a-L3EqaWDWNGubWDx0#comment)  
-
 * [일일 커밋 회고](https://jojoldu.tistory.com/464)
 
 * [나사의 프로그래머처럼 코드짜는법 - 10가지 중요한 규칙들](Coding/NASA/README.md)   

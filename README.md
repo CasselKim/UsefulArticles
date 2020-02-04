@@ -14,6 +14,7 @@ Learned by translating useful Articles
 
 * [10 Tips for Clean Code(Yet)](https://youtu.be/UjhX2sVf0eg)  
 
+　  
 
 ## AI
 

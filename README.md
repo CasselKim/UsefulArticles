@@ -27,6 +27,6 @@ Learned by translating useful Articles
 　  
 ## Tips for being good programmer  
 
-* [일일 커밋 회고](https://jojoldu.tistory.com/464)  
+* [일일 커밋 회고 - 기억보단 ](https://jojoldu.tistory.com/464)  
 
 * [Google Coding Interview With A Competitive Programmer(Yet)](https://youtu.be/EuPSibuIKIg)  

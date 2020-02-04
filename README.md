@@ -10,8 +10,6 @@ Learned by translating useful Articles
 
 ## Coding
 
-![image](Coding/01.jpg)
-
 * [일일 커밋 회고](https://jojoldu.tistory.com/464)
 
 * [나사의 프로그래머처럼 코드짜는법 - 10가지 중요한 규칙들](Coding/NASA/README.md)   
@@ -26,8 +24,6 @@ Learned by translating useful Articles
 * [현재의 인공지능은 지능이 아니라 단순한 커브피팅(Curve Fitting)이다](https://www.notion.so/casselkim/Curve-Fitting-a4628217c5274d91a0a4ea39c9e95f66)  
 
 * **AI Ethics**
-
-  ![image](AIEthics/01.png)
 
   * [AI  윤리 원칙 - 방송통신위원회](https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=293&aid=0000025587)  
 

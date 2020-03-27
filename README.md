@@ -14,7 +14,8 @@ Learned by translating useful Articles
 
 * [10 Tips for Clean Code(Yet)](https://youtu.be/UjhX2sVf0eg)  
 
-　  
+* [Google Coding Interview With A Competitive Programmer(Yet)](https://youtu.be/EuPSibuIKIg)  
+
 
 ## AI
 
@@ -29,8 +30,8 @@ Learned by translating useful Articles
   * [히치하이커를 위한 AI 윤리 가이드 북(Yet)](https://towardsdatascience.com/ethics-of-ai-a-comprehensive-primer-1bfd039124b0)  
 
 　  
-## Tips for being good programmer  
+## Life  
 
 * [일일 커밋 회고 - 기억보단 기록을](https://jojoldu.tistory.com/464)  
 
-* [Google Coding Interview With A Competitive Programmer(Yet)](https://youtu.be/EuPSibuIKIg)  
+* [감옥에서 파이썬까지 내가 배운 것](https://www.notion.so/casselkim/9f3ccce14c584f2d94a266e847f1a7c8)

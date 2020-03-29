@@ -35,3 +35,5 @@ Learned by translating useful Articles
 * [일일 커밋 회고 - 기억보단 기록을](https://jojoldu.tistory.com/464)  
 
 * [감옥에서 파이썬까지 내가 배운 것](https://www.notion.so/casselkim/9f3ccce14c584f2d94a266e847f1a7c8)
+
+* [개발을 배우기가 정말 ](https://brunch.co.kr/@jypthemiracle/14)  
